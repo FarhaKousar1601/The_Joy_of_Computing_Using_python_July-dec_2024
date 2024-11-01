@@ -1,7 +1,5 @@
 # The Joy of Computing using Python
 
-![Course Status](https://img.shields.io/badge/Course%20Status-Ongoing-brightgreen)
-![Learners Enrolled](https://img.shields.io/badge/Learners%20Enrolled-58577-blue)
 ![Exam Registration](https://img.shields.io/badge/Exam%20Registration-24718-yellow)
 ![Duration](https://img.shields.io/badge/Duration-12%20Weeks-orange)
 ![Credit%20Points](https://img.shields.io/badge/Credit%20Points-3-lightgrey)
@@ -57,7 +55,7 @@ A fun-filled whirlwind tour of 30 hours, covering everything you need to know to
 27. Recursion: Tower of Hanoi
 28. Page Rank: How Google Works!!
 
-
+ ## previous Assignments solution available here,for learn exam 
 ## Follow Me
 
 [Follow me on LinkedIn](https://www.linkedin.com/in/FarhaKousar)
