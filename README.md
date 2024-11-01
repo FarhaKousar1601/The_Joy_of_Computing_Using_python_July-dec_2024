@@ -10,9 +10,7 @@
 A fun-filled whirlwind tour of 30 hours, covering everything you need to know to fall in love with the most sought-after skill of the 21st century. The course brings programming to your desk with anecdotes, analogies, and illustrious examples. Turning abstractions to insights and engineering to art, the course focuses primarily on inspiring the learner's mind to think logically and arrive at a solution programmatically. As part of the course, you will be learning how to practice and cultivate the art of programming with Python as a language. At the end of the course, we introduce some of the current advances in computing to motivate the enthusiastic learner to pursue further directions.
 
 ## Summary
-
-- **Course Status**: Ongoing  
-- **Course Type**: Elective  
+  
 - **Duration**: 12 weeks  
 - **Category**: Computer Science and Engineering  
 - **Credit Points**: 3  
@@ -22,7 +20,7 @@ A fun-filled whirlwind tour of 30 hours, covering everything you need to know to
 - **Enrollment Ends**: 05 Aug 2024  
 - **Exam Registration Ends**: 16 Aug 2024  
 - **Exam Date**: 02 Nov 2024 IST  
-*Note: This exam date is subject to change based on seat availability. You can check the final exam date on your hall ticket.*
+
 
 ## Course Layout
 
